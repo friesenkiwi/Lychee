@@ -11,7 +11,7 @@ lychee = {
 	updatePath      : '//update.electerious.com/index.json',
 	updateURL       : 'https://github.com/electerious/Lychee',
 	website         : 'http://lychee.electerious.com',
-	customLink			: 'https://taerfenschiefe.de/'
+	customLink			: 'https://taerfenschiefe.de/',
 
 	publicMode      : false,
 	viewMode        : false,
